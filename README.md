@@ -1,4 +1,4 @@
-# learnU
+# GTscore
 A go lang api with fiber and gorm for students to keep track of their performance across class tests
 
 ## todo
